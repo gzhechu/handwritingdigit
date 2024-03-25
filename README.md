@@ -18,7 +18,7 @@ Install **pytorch**, **numpy** first. Please choose the appropriate installation
 
 If you need to run or debug the notebook to train your own model, will also need to install **jupyter**, **matplotlib**.
 
-or you can simply if you know what you are doing:
+or if you know what you are doing, simply:
 ```
 pip install numpy
 pip install matplotlib
